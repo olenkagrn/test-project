@@ -264,4 +264,4 @@ class App {
 
 const app = new App();
 
-console.log('Changed steps');
+console.log('Changed stepапапапапs');
